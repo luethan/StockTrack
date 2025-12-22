@@ -11,3 +11,6 @@ dependencies = [
     "streamlit>=1.52.2",
     "yfinance>=0.2.66",
 ]
+
+[tool.setuptools]
+py-modules = ["main", "stockprice", "stockpricecomp"]

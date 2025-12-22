@@ -1,0 +1,10 @@
+README.md
+main.py
+pyproject.toml
+stockprice.py
+stockpricecomp.py
+stocktrack.egg-info/PKG-INFO
+stocktrack.egg-info/SOURCES.txt
+stocktrack.egg-info/dependency_links.txt
+stocktrack.egg-info/requires.txt
+stocktrack.egg-info/top_level.txt
